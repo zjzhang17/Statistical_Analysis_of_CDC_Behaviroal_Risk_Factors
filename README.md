@@ -4,6 +4,7 @@
 
 ## Why Did We Choose This Dataset?
 <li> Every 40 seconds someone in United States has a heart attack (CDC, 2022) </li>
+
 ## Goal
 <li> The goal of this project is to learn how to function as a healthcare data analyst. </li>
 
