@@ -6,7 +6,7 @@
 <li> Every 40 seconds someone in United States has a heart attack (CDC, 2022) </li>
 
 ## Goal
-<li> The goal of this project is to learn how to function as a healthcare data analyst. </li>
+<li> The goal of this project is to observe how different behavioral risk factors affect the rate cardiovascular disease. </li>
 
 ## Data Collection and Analysis
 <li> We used the BRFSS dataset from CDC to perform statistical analysis. </li>
