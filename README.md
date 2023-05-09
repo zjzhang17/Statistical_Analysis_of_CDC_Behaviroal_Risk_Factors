@@ -3,11 +3,11 @@
 # BRFSS: The Behavioral Risk Factor Surveillance System 
 
 ## Why Did We Choose This Dataset?
-<li> Every 40 seconds someone in United States has a heart attack (CDC, 2022) </li>
+Every 40 seconds someone in United States has a heart attack (CDC, 2022).
 
 ## Goal
-<li> The goal of this project is to observe how different behavioral risk factors affect the rate cardiovascular disease. </li>
+The goal of this project is to observe how different behavioral risk factors affect the rate cardiovascular disease.
 
 ## Data Collection and Analysis
-<li> We used the BRFSS dataset from CDC to perform statistical analysis. </li>
+We used the BRFSS dataset from CDC to perform statistical analysis.
 
