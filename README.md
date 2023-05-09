@@ -9,5 +9,5 @@ Every 40 seconds someone in United States has a heart attack (CDC, 2022).
 The goal of this project is to observe how different behavioral risk factors affect the rate cardiovascular disease.
 
 ## Data Collection and Analysis
-We used the BRFSS dataset from CDC to perform statistical analysis.
+We used the BRFSS dataset from https://www.cdc.gov/brfss/annual_data/annual_2020.html to perform statistical analysis.
 
